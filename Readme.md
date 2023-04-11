@@ -2,6 +2,8 @@ TEST
 TEST
 TEST
 
+TEST2
+
 ## HashiCorp Certified Terraform: Associate 2022
 
 This Git repository contains all the code files used throughout the HashiCorp Certified Terraform Associate course by Zeal Vora.
